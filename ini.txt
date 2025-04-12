@@ -3,5 +3,15 @@ git clone <url>
 ls
 
 type nul > file-name
-❤️💕😁😁😁👌👌👌👌🤣
+
 code . it will able to write code-
+
+then 
+
+git add  file.hp
+
+then git commit -m "discripton"
+
+then
+
+git push

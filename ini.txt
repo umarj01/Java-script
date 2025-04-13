@@ -15,3 +15,11 @@ then git commit -m "discripton"
 then
 
 git push
+
+git pull to see conflict or chnages
+
+git reset to se last change or go to back commit or previs file
+
+git reset --hard <commit name>
+
+
